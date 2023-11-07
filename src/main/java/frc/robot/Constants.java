@@ -20,10 +20,10 @@ public final class Constants
         public static final int DRIVER_CONTROLLER_PORT = 0;
     }
     public static class MotorPorts {
-        public static final int FRONT_LEFT_MOTOR_PORT = 0;
+        public static final int FRONT_LEFT_MOTOR_PORT = 6;
         public static final int BACK_LEFT_MOTOR_PORT = 0;
-        public static final int BACK_RIGHT_MOTOR_PORT = 0;
-        public static final int FRONT_RIGHT_MOTOR_PORT = 0;
+        public static final int BACK_RIGHT_MOTOR_PORT = 2;
+        public static final int FRONT_RIGHT_MOTOR_PORT = 4;
     }
     public static class Multipliers {
         public static final double speedMultiplier = 0.6;
